@@ -36,7 +36,7 @@ const questions = [
     },
     {
         type: 'list',
-        name: 'liscense',
+        name: 'license',
         message: 'What license did you use?',
         choices: ['MIT', 'Apache 2.0', 'GNU v3.0', 'BSD 2-Clause', 'BSD 3-Clause', 'Boost Software 1.0', 'Eclipse Public 2.0', 'Mozilla Public 2.0',]
     },
